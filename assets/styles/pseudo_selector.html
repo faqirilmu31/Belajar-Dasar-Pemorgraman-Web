@@ -4,6 +4,28 @@
 <head>
     <title>Judul Dokumen</title>
     <style>
+        /* Pseudo class selector */
+        /* rule akan diterapkan pada sebuah tautan yang belum pernah dikunjungi */
+        a:link {
+            color: red;
+        }
+
+        /* rule akan diterapkan pada sebuah tautan yang sudah pernah dikunjungi */
+        a:visited {
+            color: green;
+        }
+
+        /* rule akan diterapkan pada sebuah tautan ketika diarahkan dengan kursor */
+        a:hover {
+            color: pink;
+        }
+
+        /* rule akan diterapkan pada sebuah tautan ketika ditekan */
+        a:active {
+            color: orange;
+        }
+
+        /* Pseudo elemen selector */
         /* Rule styling akan diterapkan pada karakter pertama disebuah paragraf */
         p::first-letter {
             font-size: 32px;
@@ -14,6 +36,8 @@
 </head>
 
 <body>
+    <a href="https://www.google.com/">Kunjungi halaman google</a>
+
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto deserunt, dicta laudantium quae quam sequi
         soluta vitae! A, architecto beatae, consequuntur et eveniet fuga laudantium molestias praesentium temporibus,
         unde
