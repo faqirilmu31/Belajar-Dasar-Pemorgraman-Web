@@ -52,3 +52,10 @@
 	<table> untuk mulai dan akhir
 	<tr> membuat baris baru yg di didalamnya terdapat <td> atau <th>
 	
+
+ Font Styling
+	- Seluruh nilai font yang bukan merupakan generic font families, yang mana harus dituliskan secara kapital. Contohnya “Arial” bukan dituliskan “arial”.
+	- Gunakan tanda koma (,) untuk memisahkan antara nilai font yang digunakan. 
+	- Selalu tanda kutip (“) untuk membungkus nilai font yang memiliki spasi pada namanya (Contohnya “Open Sans”).
+
+	
