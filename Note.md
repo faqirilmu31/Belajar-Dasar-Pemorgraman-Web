@@ -1,5 +1,6 @@
 # CATATAN-CATATAN VISUALIZATION
 
+## HTML
 
 ### A. Semantic HTML
    <img src='https://user-images.githubusercontent.com/70735803/121237031-d0f62380-c8c0-11eb-88c8-f45454d2b5b5.png' alt='bagan semantic HTML' width='600'>
@@ -36,3 +37,10 @@
    <img src='https://user-images.githubusercontent.com/70735803/121572519-7ab6eb00-ca4e-11eb-86cb-cfd0c925d71c.png' alt='struktur dasar' width='600'>
    
    
+## CSS
+
+### A. Urutan Font Styling
+   <img src="https://user-images.githubusercontent.com/70735803/122046814-8e28d400-ce09-11eb-8017-de959d5e279c.png" alt="urutan font styling" width='600'>
+
+### Text indenting
+   <img src="https://user-images.githubusercontent.com/70735803/122047356-40f93200-ce0a-11eb-9af3-8342efb526b6.png" alt="text indent" width='600'>
