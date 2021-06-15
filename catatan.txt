@@ -52,3 +52,18 @@
 	<table> untuk mulai dan akhir
 	<tr> membuat baris baru yg di didalamnya terdapat <td> atau <th>
 	
+ Styling CSS ada 3 yaitu, External Style Sheet, Embedded Style Sheet, dan Inline Style
+ 
+ Basic selector ada 4 yaitu, type selector, class selector, id selector, dan universal selector
+ 
+ Combinator ada 4 yaitu,  Adjacent Sibling Selector(+), General Sibling Selector(~), Child Selector(>), dan Descendant Selector.
+
+ Pseudo selector ada 2 yaitu, pseudo class selector atau pseudo element selector. Berikut link lengkapnya : https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+
+
+ Tata penulisan font-family
+	- Seluruh nilai font yang bukan merupakan generic font families, yang mana harus dituliskan secara kapital. Contohnya “Arial” bukan dituliskan “arial”.
+	- Gunakan tanda koma (,) untuk memisahkan antara nilai font yang digunakan. 
+	- Selalu tanda kutip (“) untuk membungkus nilai font yang memiliki spasi pada namanya (Contohnya “Open Sans”).
+	
+	
