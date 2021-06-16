@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <style>
+        div {
+            height: 200px;
+            width: 200px;
+            background-color: lightgreen;
+            border: 10px solid cornflowerblue;
+            padding: 20px;
+        }
+
+        .content {
+            /* max-width: 200px;
+            height: 200px;
+            margin: 0 auto;
+            /* background-color: deeppink; */
+            overflow: auto; */
+            box-sizing: content-box;
+        }
+
+        .box {
+            box-sizing: border-box;
+            border-width: 2px 1px 1px 2px; /*top right bottom left*/
+        }
+
+        p {
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate eius explicabo fuga iusto magni minus
+            odit praesentium, quasi quisquam quos repellat suscipit tempora tenetur? Assumenda cum laborum officiis quos
+            ratione.</p>
+        <br>
+    </div>
+
+    <p>Elemen menerapkan <code>box-sizing: border-box;</code> Ukuran box akan tetap 200px lebar, 200px tinggi meskipun
+        menerapkan padding dan border</p>
+</body>
+
+</html>
