@@ -1,9 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap');
+
+/* @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600&family=Quicksand:wght@400;700&display=swap'); */
+
+/* @font-face {
+    font-family: "Dicoding Font";
+    src: url('FILE-FONT.TTF');
+ } */
+
+ /* p {
+    font-family: "Dicoding Font";
+ } */
+
 body{
-    font-family: sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 h2, h3{
     color: #00a2c6;
+}
+
+nav a:hover {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 /* h3{
@@ -16,11 +35,3 @@ footer{
     background-color: #00a2c6;
 }
 
-@font-face {
-    font-family: "Dicoding Font";
-    src: url('FILE-FONT.TTF');
- }
-
- p {
-    font-family: "Dicoding Font";
- }
