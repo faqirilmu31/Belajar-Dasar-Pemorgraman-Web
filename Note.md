@@ -44,3 +44,12 @@
 
 ### Text indenting
    <img src="https://user-images.githubusercontent.com/70735803/122047356-40f93200-ce0a-11eb-9af3-8342efb526b6.png" alt="text indent" width='600'>
+   
+### B. Box Element
+   <img src="https://user-images.githubusercontent.com/70735803/122268271-1096be00-cf06-11eb-9de0-128a68f973e2.png" alt="box element" width='600'>
+
+### Overflowing Content
+   <img src="https://user-images.githubusercontent.com/70735803/122270112-2efdb900-cf08-11eb-9a94-8ddb66991819.png" alt="overflowing content" width='600'>
+   
+### C. Border
+   <img src="https://user-images.githubusercontent.com/70735803/122271611-cca5b800-cf09-11eb-9345-56d91d0c3574.png" alt="shorhand border" width='600'>
