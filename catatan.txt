@@ -52,6 +52,7 @@
 	<table> untuk mulai dan akhir
 	<tr> membuat baris baru yg di didalamnya terdapat <td> atau <th>
 	
+
  Styling CSS ada 3 yaitu, External Style Sheet, Embedded Style Sheet, dan Inline Style
  
  Basic selector ada 4 yaitu, type selector, class selector, id selector, dan universal selector
@@ -67,3 +68,4 @@
 	- Selalu tanda kutip (“) untuk membungkus nilai font yang memiliki spasi pada namanya (Contohnya “Open Sans”).
 	
 	
+

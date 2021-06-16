@@ -15,3 +15,12 @@ footer{
     color: white;
     background-color: #00a2c6;
 }
+
+@font-face {
+    font-family: "Dicoding Font";
+    src: url('FILE-FONT.TTF');
+ }
+
+ p {
+    font-family: "Dicoding Font";
+ }
