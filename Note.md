@@ -53,3 +53,6 @@
    
 ### C. Border
    <img src="https://user-images.githubusercontent.com/70735803/122271611-cca5b800-cf09-11eb-9345-56d91d0c3574.png" alt="shorhand border" width='600'>
+   
+### D. Position (Relative Positioning)
+   <img src="https://user-images.githubusercontent.com/70735803/122810338-71086f80-d2f9-11eb-8bb1-8bb74596ffa8.png" alt="non-static-flow relatiove positioning" width='600'>
