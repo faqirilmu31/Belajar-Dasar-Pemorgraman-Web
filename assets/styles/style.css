@@ -94,3 +94,14 @@ footer{
     font-weight: bold;
 }
 
+.first {
+    background-color: #60d0a8;
+ }
+  
+ .second {
+    background-color: #6495ed;
+ }
+  
+ .third {
+    background-color: #ffa500;
+ }
