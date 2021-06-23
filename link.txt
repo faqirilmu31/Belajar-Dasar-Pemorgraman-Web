@@ -7,3 +7,6 @@ MEMNGECILKAN UKKURAN CSS:
 https://cssnano.co/playground/
 https://cssminifier.com/
 https://www.minifier.org/
+
+addEventListener()
+    https://developer.mozilla.org/en-US/docs/Web/Events
