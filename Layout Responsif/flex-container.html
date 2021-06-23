@@ -25,7 +25,40 @@
             border: 2px solid black;
             border-radius: 10px;
         }
-    </style>
+
+        .depended-flex {
+            display: flex;
+
+            /* properti lainnya */
+            width: 800px;
+            height: 250px;
+            background-color: #11c5c6;
+            border: 2px solid black;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px auto;
+        }
+
+        .flex {
+            /* properti lainnya */
+            background-color: #fbdd1c;
+            margin: 5px;
+            border: 2px solid black;
+            border-radius: 10px;
+        }
+
+        .first {
+            flex-grow: 1;
+        }
+
+        .second {
+            flex-grow: 2;
+        }
+
+        .third {
+            flex-grow: 1;
+        }
+        </style>
 </head>
 
 <body>
@@ -33,6 +66,12 @@
         <div class="box"></div>
         <div class="box"></div>
         <div class="box"></div>
+    </div>
+
+    <div class="depended-flex">
+        <div class="flex first"></div>
+        <div class="flex second"></div>
+        <div class="flex third"></div>
     </div>
 </body>
 
