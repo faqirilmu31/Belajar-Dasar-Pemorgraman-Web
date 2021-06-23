@@ -56,3 +56,7 @@
    
 ### D. Position (Relative Positioning)
    <img src="https://user-images.githubusercontent.com/70735803/122810338-71086f80-d2f9-11eb-8bb1-8bb74596ffa8.png" alt="non-static-flow relatiove positioning" width='600'>
+   
+## DOM
+### Method DOM
+   <img src="https://user-images.githubusercontent.com/70735803/123051389-f12ef200-d42b-11eb-9e33-fe11367fe3cb.png" alt="method DOM" width='600'>
